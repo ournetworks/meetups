@@ -4,4 +4,4 @@ This repository has organizing materials for bimonthly Peer-to-peer and Decentra
 
 ## Materials License
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks 2018</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks Meetups</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
