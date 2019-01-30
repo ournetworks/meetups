@@ -2,6 +2,14 @@
 
 This repository has organizing materials for bimonthly Peer-to-peer and Decentralized Web meetups, launching 2019. For any questions email orga@ournetworks.ca!
 
+## Schedule
+
+We meet **bimonthly** on the third Thursday of the month from 6:30 - 8:30 pm at various venues around the city. Our Spring 2019 meetup schedule is:
+
+- February 7
+- March 28
+- May 23
+
 ## Code of Conduct
 
 This event has a [Code of Conduct](./CONDUCT.md) that all organizers and attendees have been asked to follow in order to create a welcoming space to aim to do our best work together. We also have a [Pitch Policy](./PITCHING.md) which lays out our reasons for keeping the meetups a "*pitch-free zone*".
