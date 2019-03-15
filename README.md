@@ -4,11 +4,11 @@ This repository has organizing materials for bimonthly Peer-to-peer and Decentra
 
 ## Schedule
 
-We meet **bimonthly** on the third Thursday of the month from 6:30 - 8:30 pm at various venues around the city. Our Spring 2019 meetup schedule is:
+We meet **bimonthly** on the third Thursday of the month from 6:30 - 8:30 pm at various venues around the city. Our Spring 2019 [meetup schedule](https://ournetworks.ca/meetups/) is:
 
-- February 7
-- March 28
-- May 23
+- February 7 📣 [meetup event](https://www.meetup.com/p2p-and-dweb-toronto/events/258519996/)
+- March 28 📣 [meetup event](https://www.meetup.com/p2p-and-dweb-toronto/events/258520165/)
+- May 23 📣 [meetup event](https://www.meetup.com/p2p-and-dweb-toronto/events/258520223/)
 
 ## Code of Conduct
 
