@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "",
+        "server": "rtmp://openvpn.publish.live.mesh.world/live",
+        "use_auth": false
+    },
+    "type": "rtmp_custom"
+}
